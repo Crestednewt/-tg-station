@@ -2,7 +2,7 @@
 
 # Server the MySQL database can be found at
 # Examples: localhost, 200.135.5.43, www.mysqldb.com, etc.
-ADDRESS localhost
+ADDRESS 127.0.0.1
 
 # MySQL server port (default is 3306)
 PORT 3306
@@ -11,10 +11,10 @@ PORT 3306
 DATABASE tgstation
 
 # Username/Login used to access the database
-LOGIN mylogin
+LOGIN root
 
 # Password used to access the database
-PASSWORD mypassword
+PASSWORD delta delta fox two
 
 # The following information is for feedback tracking via the blackbox server
 FEEDBACK_DATABASE test

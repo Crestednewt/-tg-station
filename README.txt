@@ -1,7 +1,7 @@
 tgstation13 v1.0 - 6 October 2010
 
 Website: http://nanotrasen.com
-Code: https://github.com/tgstation/-tg-station
+Code: http://code.google.com/p/tgstation13
 IRC: irc://irc.rizon.net/tgstation13
 
 ================================================================================
